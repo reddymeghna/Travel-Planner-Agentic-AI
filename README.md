@@ -4,7 +4,7 @@ Welcome to the AI Travel Agent repository! This project demonstrates how to leve
 # 🚀 Live Demo
 
 ## 🔗 Vercel Link  
-👉 [Click here to use the Sentiment Analyzer App](https://travel-planner-peach-tau.vercel.app/) 👈
+👉 [Click here to use the Travel Planner App](https://travel-planner-peach-tau.vercel.app/) 👈
 
 
 
