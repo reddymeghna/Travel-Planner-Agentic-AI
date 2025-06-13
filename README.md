@@ -1,6 +1,14 @@
 # ✈️🧳 AI Travel Agent - Powered by LangGraph: A Practical Use Case 🌍
 Welcome to the AI Travel Agent repository! This project demonstrates how to leverage LangGraph for building a smart travel assistant that uses multiple language models (LLMs) to handle tasks such as finding flights, booking hotels, and sending personalized emails. The agent is designed to interact with users, invoke necessary tools, and provide a seamless travel planning experience.
 
+![Project Type: Travel Planner](https://img.shields.io/badge/Project-Travel%20Planner-teal?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Agentic AI: CrewAI](https://img.shields.io/badge/Agentic%20AI-CrewAI-purple?style=for-the-badge)
+![LLM: LLaMA 3](https://img.shields.io/badge/LLM-LLaMA%203-blue?style=for-the-badge)
+![API: Groq](https://img.shields.io/badge/API-Groq-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Enabled-yellowgreen?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Integrated-success?style=for-the-badge)
+
+
 # 🚀 Live Demo
 
 ## 🔗 Vercel Link  
