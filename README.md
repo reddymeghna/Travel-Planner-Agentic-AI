@@ -1,6 +1,13 @@
 # ✈️🧳 AI Travel Agent - Powered by LangGraph: A Practical Use Case 🌍
 Welcome to the AI Travel Agent repository! This project demonstrates how to leverage LangGraph for building a smart travel assistant that uses multiple language models (LLMs) to handle tasks such as finding flights, booking hotels, and sending personalized emails. The agent is designed to interact with users, invoke necessary tools, and provide a seamless travel planning experience.
 
+# 🚀 Live Demo
+
+## 🔗 Vercel Link  
+👉 [Click here to use the Sentiment Analyzer App](https://travel-planner-peach-tau.vercel.app/) 👈
+
+
+
 ## **Features**
 
 - **Stateful Interactions**: The agent remembers user interactions and continues from where it left off, ensuring a smooth user experience.
